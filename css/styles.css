@@ -1,0 +1,8 @@
+.col{
+    display: inline-block;
+}
+.row{
+    padding: 1em;
+    border-style: solid;
+    background: antiquewhite;
+}

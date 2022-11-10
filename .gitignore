@@ -1,0 +1,5 @@
+/vendor
+/docker
+composer.lock
+xdebug.log
+/uploads
