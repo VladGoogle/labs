@@ -4,3 +4,4 @@ composer.lock
 xdebug.log
 /uploads
 docker-compose.yml
+Modules/config/config.ini
